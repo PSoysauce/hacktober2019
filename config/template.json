@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://<mongo_user>:<password>@cluster0-ackei.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://<mongo_user>:<password>@cluster0-ackei.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:3000"
 }
