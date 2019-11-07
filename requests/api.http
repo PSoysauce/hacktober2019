@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.amazon.com/Amazfit-Smartwatch-Monitoring-Ultra-Long-Bluetooth/dp/B07CRQVX1L/ref=sr_1_3?crid=ZLEJF9TL8CPJ&keywords=amazfit%2Bbip&qid=1572049234&sprefix=amazfit%2B%2Caps%2C165&sr=8-3&th=1"
+}
